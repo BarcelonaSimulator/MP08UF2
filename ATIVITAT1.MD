@@ -16,3 +16,20 @@ Creiem que la segona opció és més econòmica per a la empresa.
 Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
 
 ![Selecció_001](https://user-images.githubusercontent.com/114162334/191769091-a673d72b-4c4d-4084-b370-29bffc3d9e66.png)
+
+
+Per a crear una nova unitat compartida simplement tenim que entrar a la pàgina web de drive i fer click dret a “Unitats compartides”.
+
+
+# Carpeta de backup
+
+
+![Selecció_002](https://user-images.githubusercontent.com/114162334/191770899-34d8ad20-d574-49e5-8608-5f9cbaf8df46.png)
+
+
+
+
+
+
+
+
