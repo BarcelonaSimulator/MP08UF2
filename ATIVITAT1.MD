@@ -1,6 +1,6 @@
 ## CAS PRÀCTIC
 
-Perquè penseu que aquesta és una bona solució al nostre problema?
+### Perquè penseu que aquesta és una bona solució al nostre problema?
 
 Per que si peta l’equip mentres fem una copia de seguretat se’ns quedarà la informació al núvol, per tant no la perdrem. 
 
