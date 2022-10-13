@@ -25,33 +25,50 @@ mostra la ruta real a les tres carpetes dins de la teva MV.
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
 
+Xifratge en trànsit
+
+Xifratge en repòs 
+
+Xifratge d'extrem a extrem.
 
 - Fes una petita descripció de cada un d'ells.
 
+Xifratge en trànsit: L'Owncloud per defecte porta HTTPS i té més nous els protocols TLS
+
+Xifratge en repòs : Els arxius es guarden al Owncloud envés de guardar-los al disc dur per a obtenir més seguretat.
+
+Xifratge d'extrem a extrem: Per a ningú pugui entrar als arxius encriptats, l'Owncloud utilitza el "end-to-end" ja que és la seguretat maxima de dades
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
+Per a que els documents no es perdin de ninguna forma.
 
 - Això passa a tots els països?
 
+Europa té una regulació GDPR, que són uns acords de protecció de dades. no tots utilitzen els mateixos acords, però en són senblants.
 
 - Quina és la llicència d'OWncloud Enterprise?
 
+Es una de les caracteristiques de Owncloud que et pots adequerir a 12 € al mes
 
 - I la d'Owncloud Standard?
 
+Es similar a l'enterprise però es mes varat uns 5 € i sense llicencia comercial.
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
+Si, es pot veure
 
 - Es poden connectar directoris de Google Drive a Owncloud?
 
+Es poden conectar entre ells
 
 - I Dropbox?
 
+Tambe es poden conectar
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-
+Si, te una extensió que es: Owncloud Anti-Virus extension.
 
 **RESPOSTA**
 
