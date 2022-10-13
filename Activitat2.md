@@ -112,9 +112,16 @@ I ens surtira el owncloud per iniciar sesió
 
 ![Selecció_040](https://user-images.githubusercontent.com/114162334/193079692-c3383e3d-639c-467d-81e9-b0be88086af4.png)
 
+Ara li fiquem la nostra ip i la adewça wheb dins de la carpeta config de owncloud amb aquesta comanda
+```
+sudo nano/var/www/html/owncloud/config/gonfig.php
+```
 
+![Selecció_171](https://user-images.githubusercontent.com/114162334/195617056-7a7f50b7-3cfe-47d0-98ea-d395116ff649.png)
 
+I ara ens foncionara el oncloud personal
 
+![Selecció_172](https://user-images.githubusercontent.com/114162334/195617080-f780894c-8b54-43d0-a2f2-34d390fc78af.png)
 
 
 
