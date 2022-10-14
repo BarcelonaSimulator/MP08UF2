@@ -136,28 +136,31 @@ Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 
 ![68747470733a2f2f64756e67656f6e6f66626974732e636f6d2f696d616765732f6f776e636c6f7564312e6a7067](https://user-images.githubusercontent.com/114162334/195784901-1d83f3c1-ee2d-46f1-b432-a27156d55f50.jpg)
 
-1 Identificador de l'admin.
+ServerAdmin admin@exemple.com: Identificador de l'admin.
 
-2 On l'owncloud està instal·lat
+DocumentRoot /var/www/html/owncloud: On l'owncloud està instal·lat
 
-3 Nom del servidor
+ServerName Dungeonofbits.com: Nom del servidor
 
-4 Alias del servidor 
+ServerAlias www.dungeonofbits.com: Alias del servidor 
 
-5 Per a sapiger que /owncloud esta dins daquetes carpetes /var/www/html/owncloud.
+Alias /oncloud "/var/www/html/owncloud": Per a sapiger que /owncloud esta dins daquetes carpetes /var/www/html/owncloud.
 
-6 El directori de Owncloud.
+<Directory /var/www/html/owncloud/>: El directori de Owncloud.
 
-7 Es un enllaç simbolic i els activa.
+Options +Followsymlinks: controla la capacitat del servidor de seguir enllaços simbòlics
 
-8 Facilita els canvis en la configuració, htaccess funcionin.
+AllowOverride all: Facilita els canvis en la configuració, htaccess funcionin.
 
-9 Desactiva el dav.
+Require all granted: Significa que todos pueden acceder al directorio /var/www/html/owncloud
 
-10 Fa que el HOME sigui /var/www/html/owncloud
+Dav off: Desactiva el dav.
 
-11 Un Error
+SetEnv HOME /var/www/html/owncloud: Fa que el HOME sigui /var/www/html/owncloud
 
+ErrorLog ${APACHE_LOG_DIR}/erroro.log: conté missatges informatius, advertències i informació sobre esdeveniments crítics.
+
+CustomLog ${APACHE_LOG_DIR}/access.log combined: és una llista de totes les sol·licituds de fitxers individuals
 
 ### Què fa la comanda a2ensite?
 
