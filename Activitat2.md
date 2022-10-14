@@ -18,16 +18,20 @@ sudo nano /etc/hostname
 ![Selecció_041](https://user-images.githubusercontent.com/114162334/193090537-64c39fc6-3eb3-4708-b794-413165184564.png)
 
 2 Instal·lem el servidor Apache amb aquesta comanda
+
 ![Selecció_042](https://user-images.githubusercontent.com/114162334/193090544-3c6b7136-2b2a-48f7-986e-922ed360b81b.png)
 
 3 Desactivem el llistat de directoris del servidor
+
 ![Selecció_043](https://user-images.githubusercontent.com/114162334/193090562-ecbb7adc-f329-4ea0-a24b-c55e561842ae.png)
 
 4 Instal·lem MariaDB
+
 ![Selecció_044](https://user-images.githubusercontent.com/114162334/193090572-6fee5ba8-adb9-4be6-b7ae-956231664b59.png)
 ![68747470733a2f2f64756e67656f6e6f66626974732e636f6d2f696d616765732f6f776e636c6f7564312e6a7067](https://user-images.githubusercontent.com/114162334/195784774-e6b4ebe0-6633-4167-8eae-f18178768fb0.jpg)
 
 5 Configurem la instal·lació
+
 ![Selecció_045](https://user-images.githubusercontent.com/114162334/193090581-3cc203b5-369b-4e9e-9988-4a1c80798751.png)
 
 6 **Aqui tenim que ficar si o no depen el que pregunti**
@@ -43,6 +47,7 @@ sudo nano /etc/hostname
 ![Selecció_046](https://user-images.githubusercontent.com/114162334/193090591-563a239c-81fc-442d-8062-2847ebdcb72e.png)
 
 Finalment reiniciem el servidor MariaDB
+
 ![Selecció_047](https://user-images.githubusercontent.com/114162334/193090604-d948594e-aa35-4198-bf26-f34a1af9a950.png)
 
 7 ## Crear la base de dades d'owncloud
@@ -154,15 +159,15 @@ Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 11 Un Error
 
 
-###Què fa la comanda a2ensite?
+### Què fa la comanda a2ensite?
 
 -Activa una pagina web
 
-###I la comando a2dissite?
+### I la comando a2dissite?
 
 -Desactiva la pagina web
 
-Què significa la línia de /etc/hosts
+### Què significa la línia de /etc/hosts
 
 127.0.0.1 owncloud.XYZ.com
 
