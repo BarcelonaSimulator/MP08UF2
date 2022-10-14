@@ -25,6 +25,7 @@ sudo nano /etc/hostname
 
 4 Instal·lem MariaDB
 ![Selecció_044](https://user-images.githubusercontent.com/114162334/193090572-6fee5ba8-adb9-4be6-b7ae-956231664b59.png)
+![68747470733a2f2f64756e67656f6e6f66626974732e636f6d2f696d616765732f6f776e636c6f7564312e6a7067](https://user-images.githubusercontent.com/114162334/195784774-e6b4ebe0-6633-4167-8eae-f18178768fb0.jpg)
 
 5 Configurem la instal·lació
 ![Selecció_045](https://user-images.githubusercontent.com/114162334/193090581-3cc203b5-369b-4e9e-9988-4a1c80798751.png)
@@ -124,6 +125,46 @@ I ara ens foncionara el oncloud personal
 ![Selecció_172](https://user-images.githubusercontent.com/114162334/195617080-f780894c-8b54-43d0-a2f2-34d390fc78af.png)
 
 
+Expliqueu:
+
+Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+
+![68747470733a2f2f64756e67656f6e6f66626974732e636f6d2f696d616765732f6f776e636c6f7564312e6a7067](https://user-images.githubusercontent.com/114162334/195784901-1d83f3c1-ee2d-46f1-b432-a27156d55f50.jpg)
+
+1 Identificador de l'admin.
+
+2 On l'owncloud està instal·lat
+
+3 Nom del servidor
+
+4 Alias del servidor 
+
+5 Per a sapiger que /owncloud esta dins daquetes carpetes /var/www/html/owncloud.
+
+6 El directori de Owncloud.
+
+7 Es un enllaç simbolic i els activa.
+
+8 Facilita els canvis en la configuració, htaccess funcionin.
+
+9 Desactiva el dav.
+
+10 Fa que el HOME sigui /var/www/html/owncloud
+
+11 Un Error
 
 
+###Què fa la comanda a2ensite?
+
+-Activa una pagina web
+
+###I la comando a2dissite?
+
+-Desactiva la pagina web
+
+Què significa la línia de /etc/hosts
+
+127.0.0.1 owncloud.XYZ.com
+
+Es per a fer una conecsio entre la ip una direcció
 
