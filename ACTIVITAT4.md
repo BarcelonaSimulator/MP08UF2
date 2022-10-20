@@ -18,9 +18,13 @@ Per a que pugui accedir necessitarà:
 
 **RESPOSTA**
 
+![Selecció_238](https://user-images.githubusercontent.com/114162334/196974464-9ad518a6-f506-49f5-be60-fe4590c386ac.png)
+
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
 **RESPOSTA**
+
+![Selecció_239](https://user-images.githubusercontent.com/114162334/196974547-3ed64b28-36d9-469d-8e18-b10ad7f930ee.png)
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
