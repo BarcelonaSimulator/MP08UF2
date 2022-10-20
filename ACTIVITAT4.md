@@ -30,6 +30,10 @@ Per a que pugui accedir necessitarà:
 
 **RESPOSTA**
 
+![Selecció_239](https://user-images.githubusercontent.com/114162334/196975855-06b0e8cb-0d93-4550-b09a-c01a5989f31d.png)
+
+![Selecció_240](https://user-images.githubusercontent.com/114162334/196975876-068c423b-2462-42d8-a81f-2199dffdfb1c.png)
+
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
 ```
