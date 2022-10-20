@@ -39,28 +39,41 @@ Per a que pugui accedir necessitarà:
 ```
 truncate -s 10M file.txt
 ```
-
 A l'exemple es crea un fitxer de 10MB.
+
+![Selecció_241](https://user-images.githubusercontent.com/114162334/196982076-a8e72708-fcd7-4e40-86cd-481cda83ceca.png)
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **RESPOSTA**
 
+![Selecció_242](https://user-images.githubusercontent.com/114162334/196982260-a1038992-f064-46bb-93fd-426a2a11fdde.png)
+
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
 **RESPOSTA**
+
+![Selecció_243](https://user-images.githubusercontent.com/114162334/196982842-2ea46961-fc34-45b1-b8d2-280b5ef59edb.png)
+
+![Selecció_244](https://user-images.githubusercontent.com/114162334/196987003-6fd6b296-4f4e-45c0-8190-a4c4f39ae563.png)
 
 **4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.
 
 **RESPOSTA**
 
+![Selecció_245](https://user-images.githubusercontent.com/114162334/196987205-1801db9e-f9f1-4461-9426-37f6fa7ea1e6.png)
+
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
 **RESPOSTA**
 
+![Selecció_246](https://user-images.githubusercontent.com/114162334/196987598-4bae38d3-6f1d-4dbd-b572-39abd385596c.png)
+
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
 **RESPOSTA**
+
+![Selecció_247](https://user-images.githubusercontent.com/114162334/196991981-1a77f167-3fe7-410a-ae88-f845d97bd1f1.png)
 
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
