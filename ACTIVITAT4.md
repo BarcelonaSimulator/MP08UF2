@@ -104,6 +104,14 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
+![Selecció_289](https://user-images.githubusercontent.com/114162334/198654876-6001a65a-4815-4fe0-bfe1-0b65940c06f3.png)
+
+Proporciona als usuaris una alternativa als serveis propetaris de sincronitzacio de contactes que els torna el control de les seves dades una vegada mes
+
+![Selecció_290](https://user-images.githubusercontent.com/114162334/198654918-7ba3ea0c-fea2-40f8-acc6-889f3321a44e.png)
+
+S'utilitza per a entar a una conta de una forma mes facil a traves de un QR
+
 **RESPOSTA PRIMERA APP**
 
 **RESPOSTA SEGONA APP**
